@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #007BFF;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+form {
+  margin-top: 20px;
+}
+
+input, select, textarea, button {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 300px;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
